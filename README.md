@@ -4,22 +4,18 @@ I have compiled my code from SSP (Summer Science Program) 2022 in this repositor
 It contains all the code for the orbital determination of Near-Earth Asteroid 2015 HH10, as well as all the code from PSETs and lecture.
 
 ## Table of Contents
-- [OD1_submission] (#OD1_submission)
-- [OD2_submission] (#OD2_submission)
-- [OD3_submission] (#OD3_submission)
-- [OD4_submission] (#OD3_submission)
-- [OD_MoG_submission] (#OD_MoG_submission)
-- [OD_monte_carlos] (#OD_monte_carlos)
-- [python_pset1] (#python_pset1)
-- [python_pset2] (#python_pset2)
-- [python_pset3] (#python_pset3)
+- [OD1_submission] 
+- [OD2_submission] 
+- [OD3_submission] 
+- [OD4_submission]
+- [OD_MoG_submission] 
+- [OD_monte_carlos]
+- [python_pset1] 
+- [python_pset2] 
+- [python_pset3]
 
 ## Section Breakdown
 ### OD1_submission
-
-  ```markdown
-  # Standard Readme Style _(standard-readme)_
-  ```
 
 ### OD2_submission
 
