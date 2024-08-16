@@ -2,12 +2,9 @@
 Code submitted for Python PSET 1
 
 ## Table of Contents
-- [python_pset1_angle.py](python_pset1/python_pset1_angle.py)
-- [python_pset1_coordinate.py](python_pset1/python_pset1_coordinate.py)
-- [python_pset1_warmup.py](python_pset1/python_pset1_warmup.py)
-
-- [Link Text](https://github.com/username/repository-name/blob/branch-name/path/to/file)
-
+- [python_pset1_angle.py](https://github.com/diipakshii/SSP/blob/main/python_pset1/python_pset1_angle.py)
+- [python_pset1_coordinate.py](https://github.com/diipakshii/SSP/blob/main/python_pset1/python_pset1_coordinate.py)
+- [python_pset1_warmup.py](https://github.com/diipakshii/SSP/blob/main/python_pset1/python_pset1_warmup.py)
 
 ## Section Breakdown
 ### python_pset1_angle.py
