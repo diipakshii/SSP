@@ -17,6 +17,10 @@ It contains all the code for the orbital determination of Near-Earth Asteroid 20
 ## Section Breakdown
 ### OD1_submission
 
+  ```markdown
+  # Standard Readme Style _(standard-readme)_
+  ```
+
 ### OD2_submission
 
 ### OD3_submission
