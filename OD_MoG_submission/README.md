@@ -23,7 +23,7 @@ Install required package:
 pip install numpy
 ```
 
-### MoG_testinput_TestCode2.txt
+### [MoG_testinput_TestCode2.txt](https://github.com/diipakshii/SSP/blob/main/OD_MoG_submission/MoG_testinput_TestCode2.txt)
 This file contains the input for FinalODCode_TestCode2.py. Contains the observational data for Near Earth Asteroid 2015 HH10.
 
 Each observation is given as follows:
