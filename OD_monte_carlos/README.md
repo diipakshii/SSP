@@ -33,7 +33,7 @@ Install required package:
 pip install numpy
 ```
 
-### [monte_carlo.py](https://github.com/diipakshii/SSP/blob/main/OD_monte_carlos/monte_carlo.py
+### [monte_carlo.py](https://github.com/diipakshii/SSP/blob/main/OD_monte_carlos/monte_carlo.py)
 This script performs a Monte Carlo simulation to estimate the value of π. 
 - montecarlo(): Performs a monte carlo simulation by randomly generating points within a unit square and calculating the ratio of points within a unit circle, returning the mean estimate, standard deviation, standard error of the mean, and error percentage.
 
