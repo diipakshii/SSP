@@ -15,7 +15,7 @@ This script uses the odlib module to calculate and print angular momentum and or
 - odlib.py (installed or available in the same directory as your script)
 
 ### [Pal_input.txt](https://github.com/diipakshii/SSP/blob/main/OD2_submission/Pal_input.txt)
-The Pal_input.txt file contains:
+This file contains input data used in OD calculations. 
 - Lines 1-6: Positional and velocity components (x, y, z, vx, vy, vz) in kilometers and kilometers per second.
 - Lines 7-12: Actual values for orbital parameters (eccentricity, inclination, longitude of ascending node, argument of perihelion, mean anomaly, true anomaly, and semi-major axis).
 
