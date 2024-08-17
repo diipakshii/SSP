@@ -20,7 +20,7 @@ This script utilizes the odlib module to calculate and print angular momentum.
 
 ### [odlib.py](https://github.com/diipakshii/SSP/blob/main/OD1_submission/odlib.py)
 This script provides functions for basic arithmetic, trigonometric calculations, and the computation of angular momentum using celestial mechanics principles.
-- add(a,b): takes two arguments, a and b, and returns their sum
+- add(a, b): takes two arguments, a and b, and returns their sum
 - trig_function(cosine, sine): determines the angle (in degrees) based on given cosine and sine values
 - ang_momentum(): calculates the angular momentum vector based on positional and velocity data provided in a file named Pal_input.txt'.
 
