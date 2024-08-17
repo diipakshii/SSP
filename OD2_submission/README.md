@@ -21,12 +21,18 @@ The Pal_input.txt file contains:
 
 ### [odlib.py](https://github.com/diipakshii/SSP/blob/main/OD2_submission/odlib.py)
 This script performs calculations related to trigonometry, angular momentum, and orbital elements for celestial objects. It reads input data from a file and calculates various orbital parameters.
-
-New functions:
+- add(a, b): takes two arguments, a and b, and returns their sum
+- trig_function(cosine, sine): determines the angle (in degrees) based on given cosine and sine values
+- ang_momentum(): calculates the angular momentum vector based on positional and velocity data provided in a file named Pal_input.txt'.
 - orbitalelements(): reads additional orbital parameters from Pal_input.txt and calculates key orbital elements including semi-major axis, eccentricity, inclination, longitude of ascending node, and argument of perihelion
 
 #### Requirements:
 - Python 3.x
 - cmath, math, numpy modules (standard and external libraries)
+
+Install required package
+```
+pip install numpy
+```
 
   
