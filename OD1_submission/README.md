@@ -29,7 +29,7 @@ This script provides functions for basic arithmetic, trigonometric calculations,
 - math module (standard library)
 - numpy library
   
-Install required package
+Install required package:
 ```
 pip install numpy
 ```
