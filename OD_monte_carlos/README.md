@@ -9,10 +9,14 @@
 ### [MoGtestinput_TestCode2.txt](https://github.com/diipakshii/SSP/blob/main/OD_monte_carlos/MoGtestinput_TestCode2.txt)
 This file contains the input for ODmontecarlos.py. Contains the observational data for Near Earth Asteroid 2015 HH10.
 
-Each observation is given as follows:
+Each observation is given as follows: 
+
 Observation Timestamp (Julian Date): The Julian Date at which the observation was made.
+
 Right Ascension (RA): The right ascension of the object in degrees.
+
 Declination (Dec): The declination of the object in degrees.
+
 Earth-Sun Vector (x, y, z): The position vectors of Earth relative to the Sun in AU (Astronomical Units).
 
 ### [ODmontecarlos.py](https://github.com/diipakshii/SSP/blob/main/OD_monte_carlos/ODmontecarlos.py)
