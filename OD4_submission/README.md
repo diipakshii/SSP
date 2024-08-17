@@ -25,7 +25,7 @@ This script provides an implementation of the fg function used in orbital mechan
 - math module (standard library)
 - numpy library
   
-Install required package
+Install required package:
 ```
 pip install numpy
 ```
